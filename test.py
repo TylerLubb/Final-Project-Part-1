@@ -1,5 +1,5 @@
 import unittest
-from logic import *
+from Logic import *
 
 
 class MyTestCase(unittest.TestCase):
